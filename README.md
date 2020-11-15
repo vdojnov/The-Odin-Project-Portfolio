@@ -1,4 +1,4 @@
-# The Odin Project
+# The Odin Project Portfolio
 
 [The Odin Project](https://www.theodinproject.com/) is an Open Source coding bootcamp designed to give everyone a free alternative to a computer science education.
 
