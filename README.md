@@ -14,8 +14,8 @@ Check out my projects below! There is a link to the GitHub Repository as well as
 Project Number |Project Name | GitHub Link | Live Preview | Stack |Date Completed 
 --- |--- | --- | --- | --- |--- 
 #1 | Google Homepage | [Github Repo](https://github.com/vdojnov/google-homepage) | [Live Preview](https://vdojnov.github.io/google-homepage/?fbclid=IwAR1uuCiCxZpzJw5do7mkZJLNOSSs5RWJasKJp9NzLNJ-dgW2cWc802p-RRQ) | HTML5, CSS3 | Oct. 9, 2020 
-#2 |Rock Paper Scissors | [GitHub Repo](https://github.com/vdojnov/Rock_Paper_Scissors) | [Live Preview](https://vdojnov.github.io/Rock_Paper_Scissors/) | HTML5, CSS3, JavaScript, DOM |Nov. 10, 2020
-#3 |Etch-A-Sketch| [Live Preview](https://github.com/vdojnov/Etch-a-Sketch) |  [Live Preview](https://vdojnov.github.io/Etch-a-Sketch/) | HTML5, CSS3, JavaScript, DOM | Nov. 14, 2020 
+#2 |Rock Paper Scissors | [GitHub Repo](https://github.com/vdojnov/Rock_Paper_Scissors) | [Live Preview](https://vdojnov.github.io/Rock_Paper_Scissors/) | HTML5, CSS3, JavaScript, DOM Manipulation |Nov. 10, 2020
+#3 |Etch-A-Sketch| [Live Preview](https://github.com/vdojnov/Etch-a-Sketch) |  [Live Preview](https://vdojnov.github.io/Etch-a-Sketch/) | HTML5, CSS3, JavaScript, DOM Manipulation | Nov. 14, 2020 
 
 
 <!-- #4 |--- | [GitHub Repo]() | [Live Preview]() | --- |---  -->
