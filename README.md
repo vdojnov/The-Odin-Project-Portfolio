@@ -4,7 +4,7 @@
 
 The path I chose to take is the [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript) with the [Foundations](https://www.theodinproject.com/paths/foundations) prerequisite. 
 
-Check out my projects below!
+Check out my projects below! There is a link to the GitHub Repository as well as the live preview.
 
 
 # Projects
@@ -27,3 +27,8 @@ Project Number |Project Name | GitHub Link | Live Preview | Stack |Date Complete
 
 Project Number |Project Name | GitHub Link | Live Preview | Stack |Date Completed 
 --- |--- | --- | --- | --- |---  -->
+
+
+# Contributions to Open Source
+
+1. Foundations - Pull Request [#21911](https://github.com/TheOdinProject/curriculum/pull/21911)
