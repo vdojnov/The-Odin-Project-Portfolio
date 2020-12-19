@@ -16,9 +16,10 @@ Project Number |Project Name | GitHub Link | Live Preview | Stack |Date Complete
 #1 | Google Homepage | [Github Repo](https://github.com/vdojnov/google-homepage) | [Live Preview](https://vdojnov.github.io/google-homepage/?fbclid=IwAR1uuCiCxZpzJw5do7mkZJLNOSSs5RWJasKJp9NzLNJ-dgW2cWc802p-RRQ) | HTML5, CSS3 | Oct. 9, 2020 
 #2 |Rock Paper Scissors | [GitHub Repo](https://github.com/vdojnov/Rock_Paper_Scissors) | [Live Preview](https://vdojnov.github.io/Rock_Paper_Scissors/) | HTML5, CSS3, JavaScript, DOM Manipulation |Nov. 10, 2020
 #3 |Etch-A-Sketch| [Live Preview](https://github.com/vdojnov/Etch-a-Sketch) |  [Live Preview](https://vdojnov.github.io/Etch-a-Sketch/) | HTML5, CSS3, JavaScript, DOM Manipulation | Nov. 14, 2020 
+#4 | Calculator | [GitHub Repo](https://github.com/vdojnov/Calculator) | [Live Preview](https://vdojnov.github.io/Calculator/) | HTML5, CSS3, JavaScript, DOM Manipulation | Dec. 18, 2020 
 
 
-<!-- #4 |--- | [GitHub Repo]() | [Live Preview]() | --- |---  -->
+<!-- #5 |--- | [GitHub Repo]() | [Live Preview]() | --- |---  -->
 
 <br>
 <br>
@@ -32,3 +33,5 @@ Project Number |Project Name | GitHub Link | Live Preview | Stack |Date Complete
 # Contributions to Open Source
 
 1. Foundations - Pull Request [#21911](https://github.com/TheOdinProject/curriculum/pull/21911)
+
+2. Full Stack JavaScript - Pull Request [21983](https://github.com/TheOdinProject/curriculum/pull/21983)
