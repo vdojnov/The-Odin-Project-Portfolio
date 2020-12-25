@@ -29,14 +29,14 @@ Project Number |Project Name | GitHub Link | Live Preview | Stack |Date Complete
 
 Project Number |Project Name | GitHub Link | Live Preview | Stack |Date Completed 
 --- |--- | --- | --- | --- |--- 
-#1 |--- | [GitHub Repo]() | [Live Preview]() | --- |--- 
+#1 | Library App | [GitHub Repo](https://github.com/vdojnov/library-app) | [Live Preview](#) | --- | In Progress 
 
 
 <!-- #1 |--- | [GitHub Repo]() | [Live Preview]() | --- |---  -->
 
 <br>
 
-```This section is currently in progress!```
+```This Course is still currently in progress!```
 <br>
 <br>
 
