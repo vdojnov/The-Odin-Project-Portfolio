@@ -36,7 +36,7 @@ Project Number |Project Name | GitHub Link | Live Preview | Stack |Date Complete
 
 <br>
 
-```This Course is still currently in progress!```
+<center> ```This Course is still currently in progress!```</center>
 <br>
 <br>
 
