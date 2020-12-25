@@ -2,14 +2,15 @@
 
 [The Odin Project](https://www.theodinproject.com/) is an Open Source coding bootcamp designed to give everyone a free alternative to a computer science education.
 
-The path I chose to take is the [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript) with the [Foundations](https://www.theodinproject.com/paths/foundations) prerequisite. 
+The path I chose to take is the [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript) path after completing the [Foundations](https://www.theodinproject.com/paths/foundations) prerequisite. 
+
 
 Check out my projects below! There is a link to the GitHub Repository as well as the live preview.
 
 
-# Projects
+## Projects
 
-## Foundations
+### _Foundations_
 
 Project Number |Project Name | GitHub Link | Live Preview | Stack |Date Completed 
 --- |--- | --- | --- | --- |--- 
@@ -19,18 +20,27 @@ Project Number |Project Name | GitHub Link | Live Preview | Stack |Date Complete
 #4 | Calculator | [GitHub Repo](https://github.com/vdojnov/Calculator) | [Live Preview](https://vdojnov.github.io/Calculator/) | HTML5, CSS3, JavaScript, DOM Manipulation | Dec. 18, 2020 
 
 
-<!-- #5 |--- | [GitHub Repo]() | [Live Preview]() | --- |---  -->
+
 
 <br>
 <br>
 
-<!-- ## Full Stack JavaScript
+### _Full Stack JavaScript_
 
 Project Number |Project Name | GitHub Link | Live Preview | Stack |Date Completed 
---- |--- | --- | --- | --- |---  -->
+--- |--- | --- | --- | --- |--- 
+#1 |--- | [GitHub Repo]() | [Live Preview]() | --- |--- 
 
 
-# Contributions to Open Source
+<!-- #1 |--- | [GitHub Repo]() | [Live Preview]() | --- |---  -->
+
+<br>
+
+```This section is currently in progress!```
+<br>
+<br>
+
+## Contributions to Open Source
 
 1. Foundations - Pull Request [#21911](https://github.com/TheOdinProject/curriculum/pull/21911)
 
