@@ -47,7 +47,7 @@ Project Name | GitHub Link | Live Preview | Stack |Date Completed
 Pull requests that have been merged into [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
 
 Count | Course | Pull Request 
---- | --- | --- | --- |--- 
+--- | --- | ---
 1. | Foundations | Pull Request [#21911](https://github.com/TheOdinProject/curriculum/pull/21911)
 2. | Full Stack JavaScript | Pull Request [#21983](https://github.com/TheOdinProject/curriculum/pull/21983)
 3. | Full Stack JavaScript | Pull Request [#22032](https://github.com/TheOdinProject/curriculum/pull/22032)
