@@ -30,8 +30,7 @@ Project Name | GitHub Link | Live Preview | Stack |Date Completed
 Project Name | GitHub Link | Live Preview | Stack |Date Completed 
 --- | --- | --- | --- |--- 
 **#1** Library App | [GitHub Repo](https://github.com/vdojnov/library-app) | [Live Preview](https://vdojnov.github.io/library-app/) | JavaScript, HTML5, CSS3, DOM Manipulation, [Firebase's](https://firebase.google.com/) Realtime Database (NoSQL) & Authentication (SSO), and Google Books API | Jan. 4, 2021 
- 
-<!-- #1 | [GitHub Repo]() | [Live Preview]() | --- |---  -->
+ #2 Tic Tac Toe | [GitHub Repo]() | [Live Preview]() | --- | In Progress
 
 
 <!-- #1 | [GitHub Repo]() | [Live Preview]() | --- |---  -->
