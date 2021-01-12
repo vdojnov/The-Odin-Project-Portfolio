@@ -12,12 +12,12 @@ Check out my projects below! There is a link to the GitHub Repository as well as
 
 ### _Foundations_ 
 
-Project Name | GitHub Link | Live Preview | Stack |Date Completed 
+Project Name | GitHub | See In Action | Stack |Completion Date
 --- | --- | --- | --- | --- 
-**#1** Google Homepage | [Github Repo](https://github.com/vdojnov/google-homepage)| [Live Preview](https://vdojnov.github.io/google-homepage/?fbclid=IwAR1uuCiCxZpzJw5do7mkZJLNOSSs5RWJasKJp9NzLNJ-dgW2cWc802p-RRQ) | HTML5, CSS3 | Oct. 9, 2020 
-**#2** Rock Paper Scissors | [GitHub Repo](https://github.com/vdojnov/Rock_Paper_Scissors) | [Live Preview](https://vdojnov.github.io/Rock_Paper_Scissors/) | JavaScript, HTML5, CSS3, DOM Manipulation |Nov. 10, 2020
-**#3** Etch-A-Sketch| [Live Preview](https://github.com/vdojnov/Etch-a-Sketch) |  [Live Preview](https://vdojnov.github.io/Etch-a-Sketch/) | JavaScript, HTML5, CSS3, DOM Manipulation | Nov. 14, 2020 
-**#4** Calculator | [GitHub Repo](https://github.com/vdojnov/Calculator) | [Live Preview](https://vdojnov.github.io/Calculator/) | JavaScript, HTML5, CSS3, DOM Manipulation | Dec. 18, 2020 
+**#1** Google Homepage | [Code](https://github.com/vdojnov/google-homepage)| [Preview](https://vdojnov.github.io/google-homepage/?fbclid=IwAR1uuCiCxZpzJw5do7mkZJLNOSSs5RWJasKJp9NzLNJ-dgW2cWc802p-RRQ) | HTML5, CSS3 | Oct. 9, 2020 
+**#2** Rock Paper Scissors | [Code](https://github.com/vdojnov/Rock_Paper_Scissors) | [Preview](https://vdojnov.github.io/Rock_Paper_Scissors/) | JavaScript, HTML5, CSS3, DOM Manipulation |Nov. 10, 2020
+**#3** Etch-A-Sketch| [Code](https://github.com/vdojnov/Etch-a-Sketch) |  [Preview](https://vdojnov.github.io/Etch-a-Sketch/) | JavaScript, HTML5, CSS3, DOM Manipulation | Nov. 14, 2020 
+**#4** Calculator | [Code](https://github.com/vdojnov/Calculator) | [Preview](https://vdojnov.github.io/Calculator/) | JavaScript, HTML5, CSS3, DOM Manipulation | Dec. 18, 2020 
 
 
 
@@ -27,10 +27,10 @@ Project Name | GitHub Link | Live Preview | Stack |Date Completed
 
 ### _Full Stack JavaScript_
 
-Project Name | GitHub Link | Live Preview | Stack |Date Completed 
+Project Name | GitHub | See In Action | Stack |Completion Date
 --- | --- | --- | --- |--- 
-**#1** Library App | [GitHub Repo](https://github.com/vdojnov/library-app) | [Live Preview](https://vdojnov.github.io/library-app/) | JavaScript, HTML5, CSS3, DOM Manipulation, [Firebase's](https://firebase.google.com/) Realtime Database (NoSQL) & Authentication (SSO), and Google Books API | Jan. 4, 2021 
- #2 Tic Tac Toe | [GitHub Repo]() | [Live Preview]() | --- | In Progress
+**#1** Library App | [Code](https://github.com/vdojnov/library-app) | [Preview](https://vdojnov.github.io/library-app/) | JavaScript, HTML5, CSS3, DOM Manipulation, [Firebase's](https://firebase.google.com/) Realtime Database (NoSQL) & Authentication (SSO), and Google Books API | Jan. 4, 2021 
+ **#2** Superhero Tic-Tac-Toe| [Code](https://github.com/vdojnov/Superhero-Tic-Tac-Toe) | [Preview](https://vdojnov.github.io/Superhero-Tic-Tac-Toe/) | JavaScript, HTML5, CSS3, DOM Manipulation | In Progress
 
 
 <!-- #1 | [GitHub Repo]() | [Live Preview]() | --- |---  -->
