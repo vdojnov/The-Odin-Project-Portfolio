@@ -30,7 +30,7 @@ Project Name | GitHub | See In Action | Stack |Completion Date
 --- | --- | --- | --- |--- 
 **#1** Library App | [Code](https://github.com/vdojnov/library-app) | [Preview](https://vdojnov.github.io/library-app/) | JavaScript, HTML5, CSS3, DOM Manipulation, [Firebase's](https://firebase.google.com/) Realtime Database (NoSQL) & Authentication (SSO), and Google Books API | Jan. 4, 2021 
  **#2** Superhero Tic-Tac-Toe| [Code](https://github.com/vdojnov/Superhero-Tic-Tac-Toe) | [Preview](https://vdojnov.github.io/Superhero-Tic-Tac-Toe/) | JavaScript, HTML5, CSS3, DOM Manipulation, Module and Factory pattern Object Creation, Minimax algortihm | Jan. 25, 2021
-**#3** Restaurant Page| [GitHub Repo]() | [Live Preview]() | --- | InProgress 
+**#3** Restaurant Page| [GitHub Repo](https://github.com/vdojnov/Restaurant-Page) | [Live Preview]() | JavaScript, NodeJS, WebPack, HTML5, CSS3, DOM Manipulation | InProgress 
 
 <!-- **#1** | [GitHub Repo]() | [Live Preview]() | --- |---  -->
 
